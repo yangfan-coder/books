@@ -35,7 +35,7 @@
 
 > ### ES6 系列
 
-- [深入理解 ES6）](http://yf-books.oss-cn-beijing.aliyuncs.com/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)
+- [深入理解 ES6](http://yf-books.oss-cn-beijing.aliyuncs.com/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)
 
 ---
 
@@ -49,17 +49,40 @@
 > ### node 系列
 
 - [Node.js 实战](http://yf-books.oss-cn-beijing.aliyuncs.com/Node.js%E5%AE%9E%E6%88%98.pdf)
+- [Koa 与 node 实战](http://yf-books.oss-cn-beijing.aliyuncs.com/Node.js%E5%AE%9E%E6%88%98.pdf)
+
+---
 
 > ### MySql 系列
 
 - [mysql 必知必会](http://yf-books.oss-cn-beijing.aliyuncs.com/mysql%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.pdf)
 
+---
+
 > ### Git 系列
 
 - [精通 Git](http://yf-books.oss-cn-beijing.aliyuncs.com/%E7%B2%BE%E9%80%9AGit.pdf)
+
+---
 
 > ### Python 爬虫 系列
 
 - [Python 爬虫实战入门教程](http://yf-books.oss-cn-beijing.aliyuncs.com/Python%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-%E5%B7%9E%E7%9A%84%E5%85%88%E7%94%9F.pdf)
 - [Python 编程：从入门到实践](http://yf-books.oss-cn-beijing.aliyuncs.com/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 - [Python 网络数据采集](http://yf-books.oss-cn-beijing.aliyuncs.com/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
+
+---
+
+> ### Linux\nginx\shell 系列
+
+- [Linux 命令行与 shell 脚本编程大全（3）](http://yf-books.oss-cn-beijing.aliyuncs.com/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%8Eshell%E8%84%9A%E6%9C%AC%E7%BC%96%E7%A8%8B%E5%A4%A7%E5%85%A8.%E7%AC%AC3%E7%89%88.pdf)
+- [Linux 系统命令及 Shell 脚本实践指南](http://yf-books.oss-cn-beijing.aliyuncs.com/Linux%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4%E5%8F%8AShell%E8%84%9A%E6%9C%AC%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97.pdf)
+- [Nginx 高性能 Web 服务器详解](http://yf-books.oss-cn-beijing.aliyuncs.com/Nginx%E9%AB%98%E6%80%A7%E8%83%BDWeb%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AF%A6%E8%A7%A3.pdf)
+
+---
+
+> ### 关于面试
+
+- [字节面试题](<http://yf-books.oss-cn-beijing.aliyuncs.com/%E5%AD%97%E8%8A%82%E5%89%8D%E7%AB%AF%E7%AC%AC%E4%B8%80%E6%9C%9F%E9%9D%A2%E8%AF%95%E9%A2%98(1).pdf>)
+
+---
