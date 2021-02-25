@@ -49,7 +49,7 @@
 > ### node 系列
 
 - [Node.js 实战](http://yf-books.oss-cn-beijing.aliyuncs.com/Node.js%E5%AE%9E%E6%88%98.pdf)
-- [Koa 与 node 实战](http://yf-books.oss-cn-beijing.aliyuncs.com/Node.js%E5%AE%9E%E6%88%98.pdf)
+- [Koa 与 node 实战](http://yf-books.oss-cn-beijing.aliyuncs.com/kao.pdf)
 
 ---
 
