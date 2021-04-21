@@ -39,6 +39,12 @@
 
 ---
 
+> ### 算法相关
+
+- [Javascript 算法描述](http://yf-books.oss-cn-beijing.aliyuncs.com/%E6%94%BF%E4%BA%91%E7%AE%97%E6%B3%95%E6%8F%8F%E8%BF%B0.pdf)
+
+---
+
 > ### http 相关
 
 - [Web 性能权威指南](http://yf-books.oss-cn-beijing.aliyuncs.com/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
