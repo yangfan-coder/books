@@ -1,5 +1,8 @@
 ## 前端书籍推荐
 
+### 整理不易、欢迎star
+<br />
+
 > ### 你不知道的 JavaScript 系列
 
 - [你不知道的 JavaScript(上)](<http://yf-books.oss-cn-beijing.aliyuncs.com/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8A%E5%8D%B7).pdf>)
